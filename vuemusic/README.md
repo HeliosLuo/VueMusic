@@ -1,0 +1,14 @@
+VueMusic
+    项目的目录结构：
+        src
+            assets
+            components
+            router
+            containers
+            utils
+            config
+    1.路由配置
+    2.支持less
+    3.网络请求axios
+    4.配置跨域
+    5.swiper的使用
